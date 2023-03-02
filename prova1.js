@@ -34,7 +34,7 @@ for(let l = 0; l < linha.length;l++ ){
     }
   }
 }
-console.log("maior valor:",maior);
+console.log("maior :",maior);
 console.log("posicao Linha:", posisaoL);
 console.log("posicao Coluna: ", posisaoC);
 console.log("MiniMax:", menor);
